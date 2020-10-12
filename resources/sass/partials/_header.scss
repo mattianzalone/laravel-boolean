@@ -1,0 +1,21 @@
+header{
+    width: 100vw;
+    background-color: #f8f9fa;
+    nav{
+        height: 100px;
+        img{
+            width: 230px;
+            height: 50px;
+        }
+    }
+    #navbarText{
+        a{
+            font-size: 25px;
+        }
+        a:hover{
+            text-decoration: underline;
+            color: #0cd977;
+        }
+    }
+}
+    
