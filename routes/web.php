@@ -18,3 +18,5 @@ Route::get('/','StaticPageController@home')->name('home');
 Route::get('/chi-siamo','StaticPageController@chisiamo')->name('chisiamo');
 
 Route::get('/studenti','StudentController@studenti')->name('studenti');
+
+Route::get('/studenti/show/{id}','StudentController@show')->name('show');

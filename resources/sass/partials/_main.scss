@@ -1,0 +1,37 @@
+.container{
+    width: 100vw;
+    h1{
+        color: #0cd977;
+        font-size: 45px;
+    }
+    h3{
+        font-size: 25px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    p{
+        line-height: 1.5;
+        font-size: 20px;
+        span{
+            font-size: 30px;
+            color:  #0cd977;
+        }
+    }
+    .btn{
+        margin-top: 30px;
+        color:#0cd977;
+        background-color: #ffffff;
+        border: 2px solid #0cd977;
+    }
+    .btn:hover{
+        background-color:#0cd977;
+        color:#ffffff;
+    }
+}
+
+.card{
+    img{
+        width: 180px;
+        height: 200px;
+    }
+}

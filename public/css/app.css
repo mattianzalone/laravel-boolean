@@ -10922,6 +10922,53 @@ header #navbarText a:hover {
   color: #0cd977;
 }
 
+header #navbarText .active {
+  color: #0cd977;
+  text-decoration: underline;
+}
+
+.container {
+  width: 100vw;
+}
+
+.container h1 {
+  color: #0cd977;
+  font-size: 45px;
+}
+
+.container h3 {
+  font-size: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.container p {
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.container p span {
+  font-size: 30px;
+  color: #0cd977;
+}
+
+.container .btn {
+  margin-top: 30px;
+  color: #0cd977;
+  background-color: #ffffff;
+  border: 2px solid #0cd977;
+}
+
+.container .btn:hover {
+  background-color: #0cd977;
+  color: #ffffff;
+}
+
+.card img {
+  width: 180px;
+  height: 200px;
+}
+
 * {
   margin: 0;
   padding: 0;

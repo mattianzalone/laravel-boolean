@@ -5,6 +5,7 @@
         'img' => 'https://www.boolean.careers/images/people/ortenzi.png',
         'nome' => 'Daniela Ortenzi',
         'anni' => 27,
+        'genere' => 'f',
         'azienda' => 'RDS Radio',
         'ruolo' =>'web developer',
         'descrizione' =>'Laureata in psicologia alla Sapienza di Roma con una nascente carriere nella SEO,
@@ -14,6 +15,7 @@
         'img' => 'https://www.boolean.careers/images/people/antidormi.png',
         'nome' => 'Nicholas Antidormi ',
         'anni' => 20,
+        'genere' => 'm',
         'azienda' => 'Atoms Studio',
         'ruolo' =>'web developer',
         'descrizione' =>'Intraprende gli studi universitari in matematica per le sue doti analitiche, ma abbandona
